@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Gunjan Banerji, WSJ Staff, Rory Jones, Eric Wallerstein, Eliot Brown, Will Horner, Hannah Miao",
+            "title": "Stock Market News Today: Dow Slips Ahead Fed Meeting, Tech-Earnings This Week - The Wall Street Journal",
+            "description": "Follow The Wall Street Journal's full markets coverage.",
+            "url": "https://www.wsj.com/livecoverage/stock-market-news-today-01-30-2023",
+            "urlToImage": "https://images.wsj.net/im-589547/social",
+            "publishedAt": "2023-01-30T16:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natalie Fisher",
+            "title": "I've helped hundreds of people land 6-figure salaries. Here's why you're getting job interviews—but no offers - CNBC",
+            "description": "Career coach Natalie Fischer has helped hundreds of candidates land six-figure jobs. She shares how to break through the job interview slump and get an offer.",
+            "url": "https://www.cnbc.com/2023/01/30/why-you-are-landing-job-interviews-but-no-offers-according-to-career-expert.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107184662-1674759157836-shot-of-a-young-businesswoman-looking-stressed-whi-2022-10-04-23-25-11-utc.jpg?v=1675093117&w=1920&h=1080",
+            "publishedAt": "2023-01-30T15:38:37Z",
+            "content": "As a career coach who has helped hundreds of people land six-figure jobs, I've found that most job seekers actually are qualified for the job that they want.\r\nBut when it comes time for the job inter… [+4215 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Randall W. Forsyth",
+            "title": "Fed Meeting: How High Will Interest Rates Go and What Else to Expect at This Week’s Meeting. - Barron's",
+            "description": "The market’s expectations clash with projections from the central bank. The wording of the policy statement after Fed Open Market Committee gathering could indicate how many hikes really are ahead this year.",
+            "url": "https://www.barrons.com/articles/interest-rate-decision-federal-reserve-meeting-51674869657",
+            "urlToImage": "https://images.barrons.com/im-712295/social",
+            "publishedAt": "2023-01-30T15:24:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Kristen Altus",
+            "title": "Musk gives inside look at Twitter HQ: A 'flaming dumpster rolling down the street’ - Fox Business",
+            "description": "\"The Rubin Report\" host Dave Rubin was invited to Twitter's headquarters, where Elon Musk showed him how the tech giant was built to \"suppress certain voices and elevate others.\"",
+            "url": "https://www.foxbusiness.com/technology/musk-inside-look-twitter-hq-flaming-dumpster-rolling-down-street",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/TWITTER-HQ-SAN-FRANCISCO-GETTY.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-30T14:27:47Z",
+            "content": "After visiting Twitter’s San Francisco headquarters for 48 hours, \"The Rubin Report\" host called the situation inside the tech giant a \"flaming dumpster rolling down the street.\"\r\nDave Rubin joined \"… [+3511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jim Cramer",
+            "title": "Cramer's top 10 things Monday: FANG-obsession over; earnings, Fed, jobs - CNBC",
+            "description": "Big week ahead, and big run so far in 2023. But earnings, the Fed's decision and jobs data will test the stock market bulls' resolve.",
+            "url": "https://www.cnbc.com/2023/01/30/cramers-top-10-things-monday-fang-obsession-over-earnings-fed-jobs.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107176651-1673370154775-NUP_200112_10050.jpg?v=1675088001&w=1920&h=1080",
+            "publishedAt": "2023-01-30T14:13:21Z",
+            "content": "1. Big week ahead. Big run so far in 2023. The Dow, the S&amp;P 500 and the Nasdaq, despite looking at a down open, have ripped higher this year as a new, broader bull market emerges. I wrote a eulog… [+3487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Stock Market Coverage - Monday Morning January 30 Yahoo Finance - Yahoo Finance",
+            "description": "#stocks #inflation #YahooFinance #recession #bitcoin #Biden #Stockmarket #coronavirus #memestocks #Fed #YahooFinance #investing #stockmarket #bitcoin #crypto...",
+            "url": "https://www.youtube.com/watch?v=Ux6ecVNArHA",
+            "urlToImage": "https://i.ytimg.com/vi/Ux6ecVNArHA/maxresdefault_live.jpg",
+            "publishedAt": "2023-01-30T13:58:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ronn Blitzer",
+            "title": "Biden rule letting retirement fund managers consider ESG factors to take effect despite red states' lawsuit - Fox Business",
+            "description": "A new rule going into effect Monday allows managers of retirement funds to factor in companies' environmental and social stances when making investment decisions.",
+            "url": "https://www.foxbusiness.com/politics/biden-rule-allowing-retirement-fund-managers-consider-esg-factors-take-effect-red-states-lawsuit",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/biden-e1615910292669.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-30T13:46:03Z",
+            "content": "Starting Monday, retirement plan managers will be able to factor in a company's environmental, social, and governing (ESG) positions when making investment decisions, as a Biden administration rule g… [+3043 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Oil slips as rate hikes loom and Russian flows stay strong - Reuters",
+            "description": "Oil prices extended losses on Monday as looming increases to interest rates by major central banks and signs of strong Russian exports offset rising Middle East tension over a drone attack in Iran and hopes of higher Chinese demand.",
+            "url": "https://www.reuters.com/markets/commodities/oil-climbs-after-drone-attack-iran-chinas-pledge-promote-consumption-2023-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/TBUOVD8v9_LnQo9YbY03Ok1yg00=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWCYQH7RTVLQ7NAAYP5GH567XU.jpg",
+            "publishedAt": "2023-01-30T13:38:00Z",
+            "content": "LONDON, Jan 30 (Reuters) - Oil prices extended losses on Monday as looming increases to interest rates by major central banks and signs of strong Russian exports offset rising Middle East tension ove… [+2125 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Unilever names former Heinz exec Schumacher as CEO - Reuters",
+            "description": "Unilever on Monday appointed Hein Schumacher to replace Alan Jope as chief executive from July in a move that was welcomed by investors including board member and activist shareholder Nelson Peltz.",
+            "url": "https://www.reuters.com/business/retail-consumer/unilever-names-hein-schumacher-new-ceo-2023-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/DHT87TOSj34G8pyuPpnkPMwSfh4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HQT5FZGUW5KXHAVQ54JPRB3FRA.jpg",
+            "publishedAt": "2023-01-30T13:34:00Z",
+            "content": "LONDON, Jan 30 (Reuters) - Unilever on Monday appointed Hein Schumacher to replace Alan Jope as chief executive from July in a move that was welcomed by investors including board member and activist … [+4071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Ford cuts prices on electric Mustang Mach-E, following Tesla's lead - CNBC",
+            "description": "Ford said Monday it will lower the price of the Mach-E, which is comparable to Tesla's Model Y, by an average of about $4,500, depending on the model.",
+            "url": "https://www.cnbc.com/2023/01/30/ford-mustang-mach-e-price-cut.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106305131-1576767761318gettyimages-1184519059.jpeg?v=1675085401&w=1920&h=1080",
+            "publishedAt": "2023-01-30T13:30:01Z",
+            "content": "DETROIT Ford Motor is increasing production and cutting prices of its electric Mustang Mach-E crossover, weeks after industry leader Tesla announced similar plans for its EVs.\r\nThe Detroit automaker … [+2810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Emily Bary",
+            "title": "SoFi stock rockets as earnings bring 'major positives' on profits and growth - MarketWatch",
+            "description": "SoFi expects to deliver a GAAP profit in the fourth quarter of 2023",
+            "url": "https://www.marketwatch.com/story/sofi-stock-pops-as-earnings-bring-major-positives-on-profits-and-growth-11675085370",
+            "urlToImage": "https://images.mktw.net/im-438270/social",
+            "publishedAt": "2023-01-30T13:29:00Z",
+            "content": "SoFi Technologies Inc. shares were rocketing in morning trading Monday after the digital financial services company exceeded expectations with its latest earnings and said that it expects to be profi… [+3911 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Why This May Be A Life-Changing Rally; Futures Fall - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMikgFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtZmVkLW1lZXRpbmctYXBwbGUtZWFybmluZ3Mtd2h5LXRoaXMtbWF5LWJlLWxpZmUtY2hhbmdpbmctbWFya2V0LXJhbGx5L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-30T13:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hanna Ziady",
+            "title": "Ryanair is making record profits as booming demand sends airfares soaring - CNN",
+            "description": "Ryanair expects it will be able to charge higher prices for flights over Easter and the summer, thanks to strong demand from American and Asian tourists and less competition from rivals.",
+            "url": "https://www.cnn.com/2023/01/30/business/ryanair-summer-airfares/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130102633-ryanair-germany-013023-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-30T13:12:00Z",
+            "content": "Ryanair expects it will be able to charge higher prices for flights over Easter and the summer, thanks to strong demand from American and Asian tourists and less competition from rivals.\r\nThe low-cos… [+2656 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Jody Serrano",
+            "title": "Tesla Model S Bursts Into Flames in California on Highway - Gizmodo",
+            "description": "The incident was caused by a battery fire, authorities said. Firefighters had to use 6,000 gallons of water to extinguish the fire.",
+            "url": "https://gizmodo.com/tesla-model-s-fire-highway-california-sacramento-1850047599",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/28349280de8ae8e85aaa8cd9e322cdb5.png",
+            "publishedAt": "2023-01-30T13:00:00Z",
+            "content": "A Tesla Model S burst into flames on Saturday while the driver was on a highway outside Sacramento, forcing authorities to bring in significant manpower and thousands of gallons of water to get the f… [+1602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Think Chevron's Profit Was Obscene? 5 Companies Will Blow It Away - Investor's Business Daily",
+            "description": "Chevron's giant $36.5 billion 2022 profit turned heads — including at the White House.",
+            "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-think-chevrons-profit-was-obscene-companies-will-blow-it-away/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/04/Stock-moneypile-03-adobe.jpg",
+            "publishedAt": "2023-01-30T13:00:00Z",
+            "content": "Chevron's (CVX) giant $36.5 billion 2022 profit certainly turned heads including at the White House. But plenty of S&amp;P 500 companies will make even more than the oil giant.\r\nXThe bulk of S&amp;P … [+5216 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Javier Espinoza, Alice Hancock, Andy Bounds, Sam Fleming",
+            "title": "EU to relax curbs on tax credits in response to US green subsidies - Financial Times",
+            "description": "Covid recovery funds could also be redirected under proposed loosening of state aid rules, according to draft plan",
+            "url": "https://www.ft.com/content/53eb769b-6ce1-4f50-9703-f2463c465001",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc75741cd-2c3b-438d-98b4-18b6eebd5737.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-01-30T12:33:43Z",
+            "content": "The EU is planning to hit back at the USs $369bn Inflation Reduction Act with looser state aid rules on tax credits for green investment.\r\nUnder a draft plan seen by the Financial Times, the European… [+4060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Google Executive Claims He Was Fired After He Rejected Female Boss' Advances: Report - NDTV",
+            "description": "Google fired Mr Olohan which ended his 16 years of association with the company",
+            "url": "https://www.ndtv.com/world-news/google-executive-claims-he-was-fired-after-he-rejected-female-boss-advances-report-3736549",
+            "urlToImage": "https://c.ndtvimg.com/2023-01/uspt4bmg_google-generic-reuters_625x300_20_January_23.jpg",
+            "publishedAt": "2023-01-30T12:32:24Z",
+            "content": "A spokesman for Miller denied the accusations against his client.\r\nA former Google employee named Ryan Olohan has claimed that authorities at the company fired him after he rejected a woman executive… [+2566 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Nissan and Renault agree to overhaul alliance, this time as equals - Reuters",
+            "description": "Nissan Motor Co <a href=\"https://www.reuters.com/companies/7201.T\" target=\"_blank\">(7201.T)</a> and Renault SA <a href=\"https://www.reuters.com/companies/RENA.PA\" target=\"_blank\">(RENA.PA)</a> agreed on Monday to a sweeping remake of their two-decade-old <a h…",
+            "url": "https://www.reuters.com/business/autos-transportation/nissan-renault-reach-agreement-renault-lower-stake-15-nikkei-2023-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/TdAYcl9k9RtUcV9hRMrS_9Zlm9s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G3VTFD7I3NJGNJPRUGFQKQXR6A.jpg",
+            "publishedAt": "2023-01-30T12:25:00Z",
+            "content": "TOKYO/PARIS, Jan 30 (Reuters) - Nissan Motor Co (7201.T) and Renault SA (RENA.PA) agreed on Monday to a sweeping remake of their two-decade-old automaking alliance that will put them on equal footing… [+3793 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Shares and bonds nervy as rate-hike week looms - Reuters",
+            "description": "Stock markets worldwide halted their January rally on Monday, pausing for breath at the start of an agenda-setting week of central bank rate hikes and data releases that will clarify if progress has been made in the battle against inflation.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/JTlY9s0o5Qgi9Va8fH1ZlhYrU8U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GNK5PWGLWNOT7I47WG2EG54YNE.jpg",
+            "publishedAt": "2023-01-30T12:13:00Z",
+            "content": "LONDON, Jan 30 (Reuters) - Stock markets worldwide halted their January rally on Monday, pausing for breath at the start of an agenda-setting week of central bank rate hikes and data releases that wi… [+4440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "PagerDuty CEO Faces Backlash For Quoting Martin Luther Jr In Layoff Email - NDTV",
+            "description": "In a 1,700 word email, Ms Tejada addressed the employees as 'Dutonians' and used the word 'refinement' for layoffs.",
+            "url": "https://www.ndtv.com/feature/pagerduty-ceo-faces-backlash-for-quoting-martin-luther-jr-in-layoff-email-3736460",
+            "urlToImage": "https://c.ndtvimg.com/2023-01/nhkill6g_pagerduty_625x300_30_January_23.jpg",
+            "publishedAt": "2023-01-30T12:08:16Z",
+            "content": "Many accused Ms Tejada's email of being the \"most tone-deaf layoff email.\"\r\nUS-based IT company Pagerduty's CEO Jennifer Tejada faced massive backlash after she quoted Martin Luther King, Jr in an em… [+2531 chars]"
+        }
+    ]
+}
